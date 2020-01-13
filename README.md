@@ -1,7 +1,7 @@
 # BasicRobot
 A test repository for a basic FRC robot, meant to test some basic command-based features. 
 
-Following is a list of good sources to check out: 
+Following is a list of good sources to check out:
 GENERAL
 https://docs.wpilib.org/en/latest/
 https://www.firstinspires.org/resource-library
