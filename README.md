@@ -3,7 +3,7 @@ A test repository for a basic FRC robot, meant to test some basic command-based 
 
 Following is a list of good sources to check out:
 GENERAL
-https://docs.wpilib.org/en/latest/
+https://docs.wpilib.org/en/latest/ (official documentation) 
 https://www.firstinspires.org/resource-library
 https://wpilib.screenstepslive.com/s/currentCS/m/kop
 https://stemalliancefm.org/robotics/frc/
@@ -16,7 +16,7 @@ http://www.ni.com/pdf/manuals/374474a.pdf
 https://team4994.weebly.com/uploads/2/4/9/3/24937043/frc-electrical-bible_1.pdf
 http://www.citruscircuits.org/uploads/6/9/3/4/6934550/robot_wiring.pdf
 https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/
-https://www.ni.com/pdf/manuals/374474a.pdf
+https://www.ni.com/pdf/manuals/374474a.pdf (roboRIO user manual) 
 
 PROGRAMMING 
 https://frc-pdr.readthedocs.io/en/latest/
