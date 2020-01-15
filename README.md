@@ -15,6 +15,7 @@ ELECTRICAL
 https://team4994.weebly.com/uploads/2/4/9/3/24937043/frc-electrical-bible_1.pdf
 http://www.citruscircuits.org/uploads/6/9/3/4/6934550/robot_wiring.pdf
 https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/
+https://www.ni.com/en-us/innovations/white-papers/06/controller-area-network--can--overview.html (CAN explanation) 
 
 PROGRAMMING 
 https://www.ctr-electronics.com/downloads/api/java/html/index.html (CTRElectronics Documentation) 
