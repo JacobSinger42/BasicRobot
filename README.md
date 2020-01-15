@@ -27,5 +27,5 @@ HARDWARE COMPONENTS
 https://www.ni.com/pdf/manuals/374474a.pdf (roboRIO user manual) 
 https://www.ctr-electronics.com/downloads/pdf/PDP%20User's%20Guide.pdf (PDP user manual) 
 https://www.ctr-electronics.com/VRM%20User's%20Guide.pdf (VRM user manual) 
-https://www.ctr-electronics.com/talon-srx.html (TalonSRX) 
+https://www.ctr-electronics.com/Talon%20SRX%20User's%20Guide.pdf (TalonSRX user manual) 
 https://www.ctr-electronics.com/downloads/pdf/PCM%20User's%20Guide.pdf (PCM user manual) 
