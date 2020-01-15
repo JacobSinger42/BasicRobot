@@ -12,11 +12,10 @@ https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system
 http://fernbanklinks.com/wp-content/uploads/2017/07/FRCSurvivalGuide.pdf
 
 ELECTRICAL
-http://www.ni.com/pdf/manuals/374474a.pdf
+https://www.ni.com/pdf/manuals/374474a.pdf (roboRIO user manual) 
 https://team4994.weebly.com/uploads/2/4/9/3/24937043/frc-electrical-bible_1.pdf
 http://www.citruscircuits.org/uploads/6/9/3/4/6934550/robot_wiring.pdf
 https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/
-https://www.ni.com/pdf/manuals/374474a.pdf (roboRIO user manual) 
 
 PROGRAMMING 
 https://frc-pdr.readthedocs.io/en/latest/
