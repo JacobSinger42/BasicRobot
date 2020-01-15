@@ -4,6 +4,7 @@ A test repository for a basic FRC robot, meant to test some basic command-based 
 Following is a list of good sources to check out:
 GENERAL
 https://docs.wpilib.org/en/latest/ (official documentation) 
+https://buildmedia.readthedocs.org/media/pdf/frc-docs/latest/frc-docs.pdf (the complete 2020 WPIlib manual) 
 https://www.firstinspires.org/resource-library
 https://wpilib.screenstepslive.com/s/currentCS/m/kop
 https://stemalliancefm.org/robotics/frc/
